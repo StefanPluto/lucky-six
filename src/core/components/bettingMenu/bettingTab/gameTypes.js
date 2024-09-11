@@ -1,0 +1,15 @@
+export const EVEN = 'even';
+export const ODD = 'odd';
+export const OVER = 'over';
+export const UNDER = 'under';
+export const FIRST_BALL_COLOR = 'firstBallColor';
+export const NUMBER_IN_FIRST_FIVE = 'numberInFirst5';
+export const NUMBER_IN_LAST_FIVE = 'numberInLast5';
+export const FIRST_BALL_ODD_EVEN = 'oddEvenFirst';
+export const FIRST_BALL_OVER_UNDER_24 = 'firstNumber24';
+export const FIRST_FIVE_ODD_EVEN = 'oddEvenInFirst5';
+export const FIRST_FIVE_OVER_UNDER_122 = 'firstFive122';
+export const LAST_BALL_ODD_EVEN = 'oddEvenLast';
+export const LAST_BALL_OVER_UNDER_24 = 'lastNumber24';
+export const LAST_FIVE_ODD_EVEN = 'oddEvenInLast5';
+export const LAST_FIVE_OVER_UNDER_122 = 'lastFive122';

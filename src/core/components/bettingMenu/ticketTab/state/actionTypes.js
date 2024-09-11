@@ -1,0 +1,17 @@
+export const ADD_BETS = 'ADD_BETS';
+export const CLEAR_BETS = 'CLEAR_BETS';
+export const REMOVE_BET = 'REMOVE_BET';
+export const CLEAR_TICKET = 'CLEAR_TICKET';
+export const UPDATE_BET = 'UPDATE_BET';
+export const UPDATE_TICKET_STAKE = 'UPDATE_TICKET_STAKE';
+export const UPDATE_TICKET_FUTURE_BET = 'UPDATE_TICKET_FUTURE_BET';
+export const UPDATE_TICKET = 'UPDATE_TICKET';
+export const MAP_PLAYER_TO_TICKET = 'MAP_PLAYER_TO_TICKET';
+export const SET_FUTURE_BET = 'SET_FUTURE_BET';
+export const EDIT_BET = 'EDIT_BET';
+export const SET_CURRENTLY_EDITING = 'SET_CURRENTLY_EDITING';
+export const SET_INVALID_BET = 'SET_INVALID_BET';
+
+
+
+
